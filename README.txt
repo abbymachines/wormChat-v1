@@ -5,7 +5,8 @@ processes it with a markov chain algorithm, and then spits out
 a short string of machine-generated text. the idea is to later
 attach this functionality to a simple animation of a baby worm,
 so that it feels like you are talking to a worm. a bonus feature
-is that the program uses text-to-speech to 
+is that the program uses text-to-speech to speak out the worm's
+response.
 
 
 ## Information about running p5 and pushing to git:
